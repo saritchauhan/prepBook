@@ -11,3 +11,5 @@ export const getUserPath = `${rootBase}/${userResource}`;
 export const addPostPath = `${rootBase}/${postResource}/add/`;
 export const getUserPostsPath = `${rootBase}/${postResource}`;
 export const getAllPostsPath = `${rootBase}/${postResource}/`;
+export const searchPostsPath = `${rootBase}/${postResource}`;
+
